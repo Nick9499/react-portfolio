@@ -3,7 +3,7 @@
 <p>This is my portfolio. Here you can check my projects. </p>
 <p>The website is live on https://nick-portfolio-1.netlify.app/ </p>
 <h2>Preview</h2><br/>
-<img src='https://github.com/Nick9499/Instagram-clone/blob/main/public/instagram.PNG' /><br/>
+<img src='https://github.com/Nick9499/react-portfolio/blob/main/public/home.PNG' /><br/>
 <h2>Technologies used</h2>
 <br>
 <ul>
